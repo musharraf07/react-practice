@@ -1,0 +1,26 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "this is react practice ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://www.github.com/musharraf07/react-practice.git)"
+  },
+  "keywords": [],
+  "author": "Musharraf",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browsersList":[
+    "last 2 version"
+  ]
+}
